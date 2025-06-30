@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Check Out My Portfolio: https://patelhet.ca/<br>🚀 Currently diving into Rust while building a smart clipboard manager called Snip that acts like your second brain — instantly searchable, context aware and built for speed.<br>🎯 2025 Goals: Expand my knowledge in AWS and cloud infrastructure!<br>🔍 Check out some of my projects Here<br>💬 Connect With Me Here: https://www.linkedin.com/in/hetp04/<br>Check out my resume Here: https://drive.google.com/file/d/1hZRciE28EtPzhKISyuKWB1sUPxZcuOrK/view?usp=sharing
+🌐 Check Out My Portfolio: https://patelhet.ca/<br>🚀 Currently diving into Rust while building a smart clipboard manager called Snip that acts like your second brain — instantly searchable, context aware and built for speed.<br>🎯 2025 Goals: Expand my knowledge in AWS and cloud infrastructure!<br>🔍 Check out some of my projects Here<br>💬 Connect With Me Here: https://www.linkedin.com/in/hetp04/<br>
 
 
 # 💻 Tech Stack:
